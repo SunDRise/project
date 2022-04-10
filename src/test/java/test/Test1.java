@@ -13,6 +13,9 @@ public class Test1 {
 		int d=a+b;
 		System.out.println(c);
 		System.out.println(d);
+		int e=b/a;
+		System.out.println(e);
+		
 	}
 
 }
