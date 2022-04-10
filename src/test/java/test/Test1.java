@@ -15,6 +15,8 @@ public class Test1 {
 		System.out.println(d);
 		int e=b/a;
 		System.out.println(e);
+		int f=c*e;
+		System.out.println(f);
 		
 	}
 
