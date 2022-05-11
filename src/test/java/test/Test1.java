@@ -7,7 +7,7 @@ public class Test1 {
 
 		
 		int a=2;
-		int b=4;
+		int b=8;
 		
 		int c=a*b;
 		int d=a+b;
